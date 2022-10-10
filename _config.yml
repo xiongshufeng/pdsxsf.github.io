@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shufeng Xiong"
-description              : "Shufeng Xiong's personal acadamic page"
+title                    : "熊蜀峰（Shufeng Xiong）"
+description              : "个人学术主页"
 repository               : "pdsxsf/pdsxsf.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : False
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
