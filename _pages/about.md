@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='个人简介'></span>
+<span class='anchor' id='about-me'></span>
 
 熊蜀峰，男，博士，教授，校拔尖人才。武汉大学博士，郑州大学博士后、英国University of Warwick访问学者，平顶山市青年科技专家，曾获得国家留学基金委、河南省高等学校青年骨干教师资助。主要学术研究方向是自然语言处理、深度学习技术，近五年先后主持教育部人文社科基金项目1项、河南省科技计划2项、河南省教育厅重点项目2项，在计算机学会推荐人工智能领域著名会议期刊发表多篇论文，其中SCI检索论文7篇，EI检索论文4篇，荣获河南省自然科学学术奖论文一等奖1项、多项市厅级奖项，申请多项专利及软件著作权，受邀担任KBS等6个领域知名国际SCI期刊审稿人、中国中文信息学会情感计算专委会委员、中国中文信息学会青年工作委员会委员。
 
