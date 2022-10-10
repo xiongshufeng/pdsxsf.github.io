@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shufeng Xiong"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Henan Agricultural University"
-  location         : "Zhengzhou, China"
+  name             : "熊蜀峰"
+  avatar           : "images/xiongsf.jpg"
+  bio              : "河南农业大学"
+  location         : "河南 郑州"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dOojzGoAAAAJ"
-  email            : "xsf@whu.edu.cn, xiongsf@henau.edu.cn"
+  email            : "xsf@whu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
