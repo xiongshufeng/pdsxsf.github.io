@@ -34,7 +34,7 @@ redirect_from:
 *   *2018年10月*： 🎉🎉 赴英国华威大学（Univeristy of Warwick）访学
 
 <span id="publications"></span>
-# 📝 Publications
+# 📝 发表成果
 
 ## 1.  期刊论文
 
