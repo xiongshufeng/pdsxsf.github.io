@@ -4,13 +4,13 @@ main:
     url: "/#about-me"
 
   - title: "最新动态"
-    url: "/#-动态"
+    url: "/#news"
 
   - title: "发表成果"
     url: "/#-publications"
 
-  - title: "荣誉及奖项"
-    url: "/#-项目及奖项"
+  - title: "项目及奖项"
+    url: "/#-honnor"
 
   - title: "教育经历"
-    url: "/#-教育经历"
+    url: "/#-education"
