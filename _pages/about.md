@@ -59,7 +59,7 @@ redirect_from:
 *   [熊蜀峰](https://www.scholat.com/xiongsf). [面向社交媒体的观点分析技术研究. ](https://www.scholat.com/portalPublicationInfo.html?publicationID=1947\&Entry=xiongsf "著作信息浏览")新华出版社. 2020.06
 
 <span id="honnor"></span>
-# 🎖 荣誉及奖项
+# 🎖 项目及奖项
 
 *   面向信息处理的汉语文本情感结构的描写机制与资源建设研究(19YJCZH198)，教育部，2019.3-2022.12
 *   涉农舆情分析系统关键技术研究(222102110423)，河南省科技厅，2022.1-2024.12
