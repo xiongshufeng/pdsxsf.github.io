@@ -7,10 +7,10 @@ main:
     url: "/#news"
 
   - title: "发表成果"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "项目及奖项"
-    url: "/#-honnor"
+    url: "/#honnor"
 
   - title: "教育经历"
-    url: "/#-education"
+    url: "/#education"
